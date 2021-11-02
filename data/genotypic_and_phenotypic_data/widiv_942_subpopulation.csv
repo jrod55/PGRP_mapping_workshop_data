@@ -1,0 +1,943 @@
+Taxa,Subpopulation
+764,SS-B73
+779,Broad origin-public 
+787,Mixed
+790,SS-B73
+793,SS-B73
+904,IDT
+911,IDT
+912,IDT
+1538,IDT
+2369,SS-B73
+4226,Broad origin-public 
+4722,Popcorn
+11430,IDT
+52220,Mixed
+04033V,Sweet corn
+07108Vbt,Mixed
+33-16,Broad origin-public 
+38-11,Broad origin-public 
+4554_INBRED,Sweet corn
+4578_INBRED,Mixed
+4F-234_BX_4,Mixed
+4F-306_108,Tropical
+4F-35_BK,Tropical
+4F-403_JV_15,Tropical
+4N506,SS-B73
+80-2,Sweet corn
+A,Broad origin-public 
+A12,Broad origin-public 
+A15,Broad origin-public 
+A155,Broad origin-public 
+A171,Broad origin-public 
+A188,Broad origin-public 
+A208,Broad origin-public 
+A239,Broad origin-public 
+A258,Broad origin-public 
+A305,Broad origin-public 
+A321,Broad origin-public 
+A322,Broad origin-public 
+A334,Broad origin-public 
+A340,Broad origin-public 
+A344,Broad origin-public 
+A374,Broad origin-public 
+A385,Broad origin-public 
+A3G-3-3-1-313,Tropical
+A401,Broad origin-public 
+A415-1-3_INBRED,Mixed
+A427,Mixed
+A441-5,Mixed
+A508,Broad origin-public 
+A548,Broad origin-public 
+A554,Broad origin-public 
+A556,Broad origin-public 
+A572,Broad origin-public 
+A619,NSS-Oh43
+A627,Broad origin-public 
+A632,SS-B14
+A634,SS-B14
+A635,SS-B14
+A641,SS-B14
+A648,Broad origin-public 
+A649,Broad origin-public 
+A651,Broad origin-public 
+A654,Broad origin-public 
+A659,Broad origin-public 
+A661,Broad origin-public 
+A662,Broad origin-public 
+A663,Mixed
+A672,SS-B14
+A673,Broad origin-public 
+A674,Mixed
+A679,SS-B73
+A680,SS-B73
+A682,NSS-Mo17
+A71,Broad origin-public 
+A73,Broad origin-public 
+A797NW,Broad origin-public 
+A96,Broad origin-public 
+AH83,Broad origin-public 
+AM0776,IDT
+AR228,Mixed
+AS5707,Mixed
+AS6103,SS-B14
+AusTRCF_306238,Mixed
+B-18_INBR.FR.SUPERGOLD,Popcorn
+B-28,Popcorn
+B10,SS-BSSSC0
+B101,SS-BSSSC0
+B104,SS-BSSSC0
+B105,SS-BSSSC0
+B106,Mixed
+B107,IDT
+B108,Mixed
+B109,SS-B73
+B110,SS-BSSSC0
+B111,SS-BSSSC0
+B112,Broad origin-public 
+B113,Mixed
+B114,IDT
+B115,Mixed
+B118,Broad origin-public 
+B119,SS-BSSSC0
+B120,Broad origin-public 
+B121,Broad origin-public 
+B14,SS-B14
+B14A,SS-B14
+B164,Broad origin-public 
+B2,Broad origin-public 
+B37,SS-B37
+B42,Broad origin-public 
+B46,SS-BSSSC0
+B52,Broad origin-public 
+B54,Broad origin-public 
+B57,Broad origin-public 
+B64,SS-B14
+B65,NSS-Oh43
+B66,NSS-Oh43
+B68,SS-B14
+B7,Broad origin-public 
+B70,NSS-Mo17
+B73,SS-B73
+B73Htrhm,SS-B73
+B75,Mixed
+B76,Broad origin-public 
+B77,Mixed
+B79,Mixed
+B8,Broad origin-public 
+B84,SS-BSSSC0
+B85,Broad origin-public 
+B87,Mixed
+B88,Mixed
+B90,Broad origin-public 
+B91,Mixed
+B97,Broad origin-public 
+B98,Mixed
+B99,Broad origin-public 
+Bei_10_=_North_10,Broad origin-public 
+BSSSC0_001,SS-BSSSC0
+BSSSC0_002,SS-BSSSC0
+BSSSC0_003,SS-BSSSC0
+BSSSC0_005,SS-BSSSC0
+BSSSC0_006,SS-BSSSC0
+BSSSC0_007,SS-BSSSC0
+BSSSC0_008,SS-BSSSC0
+BSSSC0_009,SS-BSSSC0
+BSSSC0_012,SS-BSSSC0
+BSSSC0_013,SS-BSSSC0
+BSSSC0_014,SS-BSSSC0
+BSSSC0_015,SS-BSSSC0
+BSSSC0_016,SS-BSSSC0
+BSSSC0_018,SS-BSSSC0
+BSSSC0_019,SS-BSSSC0
+BSSSC0_020,SS-BSSSC0
+BSSSC0_021,SS-BSSSC0
+BSSSC0_022,SS-BSSSC0
+BSSSC0_023,SS-BSSSC0
+BSSSC0_024,SS-BSSSC0
+BSSSC0_025,SS-BSSSC0
+BSSSC0_026,SS-BSSSC0
+BSSSC0_028,SS-BSSSC0
+BSSSC0_029,SS-BSSSC0
+BSSSC0_030,SS-BSSSC0
+BSSSC0_031,SS-BSSSC0
+BSSSC0_033,SS-BSSSC0
+BSSSC0_034,SS-BSSSC0
+BSSSC0_035,SS-BSSSC0
+BSSSC0_036,SS-BSSSC0
+BSSSC0_037,SS-BSSSC0
+BSSSC0_038,SS-BSSSC0
+BSSSC0_039,SS-BSSSC0
+BSSSC0_040,SS-BSSSC0
+BSSSC0_041,SS-BSSSC0
+BSSSC0_042,SS-BSSSC0
+BSSSC0_043,SS-BSSSC0
+BSSSC0_044,SS-BSSSC0
+BSSSC0_045,SS-BSSSC0
+BSSSC0_046,SS-BSSSC0
+BSSSC0_048,SS-BSSSC0
+BSSSC0_049,SS-BSSSC0
+BSSSC0_050,SS-BSSSC0
+BSSSC0_051,SS-BSSSC0
+BSSSC0_052,SS-BSSSC0
+BSSSC0_053,SS-BSSSC0
+BSSSC0_054,SS-BSSSC0
+BSSSC0_055,SS-BSSSC0
+BSSSC0_056,SS-BSSSC0
+BSSSC0_057,SS-BSSSC0
+BSSSC0_058,SS-BSSSC0
+BSSSC0_060,SS-BSSSC0
+BSSSC0_061,SS-BSSSC0
+BSSSC0_062,SS-BSSSC0
+C102,Mixed
+C103,NSS-Mo17
+C123,Mixed
+C15,Sweet corn
+C42,Sweet corn
+C49A,Broad origin-public 
+C68,Sweet corn
+CA-4,Sweet corn
+CG10,Broad origin-public 
+CG106,Mixed
+CG108,Broad origin-public 
+CG65,Mixed
+CH157,Broad origin-public 
+CH701-30,Broad origin-public 
+CH711-10,Mixed
+CH753-4,SS-B14
+CH9,Broad origin-public 
+Chi-tan_120,Broad origin-public 
+CI_187-2,Broad origin-public 
+CI_21E,Mixed
+CI_28A,Broad origin-public 
+CI_31A,Mixed
+CI_3A,Broad origin-public 
+CI_40H,Broad origin-public 
+CI_540,SS-BSSSC0
+CI_64,Popcorn
+CI_82B,Broad origin-public 
+CI_90C,Mixed
+CI_91B,Mixed
+CL17,Sweet corn
+CL18,Sweet corn
+CL22,Sweet corn
+CL27,Sweet corn
+CM105,SS-B14
+CM37,Broad origin-public 
+CM48,Mixed
+CM7,SS-B14
+CM99,SS-B14
+CML_108,Tropical
+CML_144,Tropical
+CML_154Q,Tropical
+CML_161,Tropical
+CML_176,Tropical
+CML_197,Tropical
+CML_202,Tropical
+CML_216,Tropical
+CML_218,Tropical
+CML_220,Tropical
+CML_228,Tropical
+CML_247,Tropical
+CML_251,Tropical
+CML_254,Tropical
+CML_264,Tropical
+CML_277,Tropical
+CML_287,Tropical
+CML_312,Tropical
+CML_322,Tropical
+CML_323,Tropical
+CML_376,Tropical
+CML_387,Tropical
+CML_395,Tropical
+CML_421,Tropical
+CML_444,Tropical
+CML_448,Tropical
+CML_451,Tropical
+CML_465,Tropical
+CML_488,Tropical
+CML_491,Tropical
+CML_496,Tropical
+CML_504,Tropical
+CML_505,Tropical
+CML_509,Tropical
+CML_511,Tropical
+CML_52,Tropical
+CML_91,Tropical
+CMV3,Broad origin-public 
+CO106,Broad origin-public 
+CO117,Broad origin-public 
+CO125,Broad origin-public 
+CO158,Broad origin-public 
+CO192,Broad origin-public 
+CO216,Broad origin-public 
+CO236,Broad origin-public 
+CO237,Broad origin-public 
+CO245,Sweet corn
+CO255,Sweet corn
+CO256,SS-BSSSC0
+CO257,SS-BSSSC0
+CO258,SS-BSSSC0
+CQ702RC,NSS-Oh43
+CQ806,NSS-Oh43
+CR_22_INBRED,Broad origin-public 
+CR14,SS-B73
+CR1HT,NSS-Mo17
+CS405,Mixed
+CS608,Mixed
+CSJ3,Broad origin-public 
+DE1,IDT
+DE2,IDT
+DE3,NSS-Oh43
+DE4,Mixed
+DE811,SS-B14
+DJ7,SS-B73
+DK29MIBZ2,IDT
+DK2FACC,SS-B73
+DK2FADB,SS-B73
+DK2MA22,Mixed
+DK2MCDB,NSS-Oh43
+DK3IBZ2,Mixed
+DK3IIH6,IDT
+DK3IJI1,IDT
+DK4676A,Mixed
+DK6F545,SS-B73
+DK6F629,Mixed
+DK6M502,Mixed
+DK6M502A,Mixed
+DK78002A,SS-B73
+DK78004,SS-B73
+DK78010,SS-B73
+DK78371A,NSS-Oh43
+DK78551S,NSS-Oh43
+DK83IBI3,IDT
+DK84BRQ4,SS-B37
+DK84QAB1,SS-B37
+DK87916W,SS-B73
+DK8F196,SS-B73
+DK8M116,Mixed
+DK8M129,Mixed
+DK91IFC2,IDT
+DKAQA3,SS-B14
+DKF118,SS-B73
+DKF274,SS-B37
+DKFBHJ,SS-B14
+DKFBLA,SS-B14
+DKFBLL,SS-B73
+DKHB8229,SS-B14
+DKHBA1,Mixed
+DKIB014,IDT
+DKIB02,IDT
+DKIBB14,IDT
+DKIBB15,IDT
+DKIBC2,IDT
+DKLIBC_4,IDT
+DKMBNA,NSS-Mo17
+DKMBPM,Mixed
+DKMBST,NSS-Oh43
+DKMBUB,NSS-Oh43
+DKMBWZ,IDT
+DKMBZA,IDT
+DKMDF-13D,NSS-Oh43
+DKMM402A,NSS-Oh43
+DKMM501D,NSS-Oh43
+DKNL001,SS-B73
+DKPB80,SS-B73
+DKWDAD1,SS-B73
+E2558W,Mixed
+E8501,NSS-Mo17
+EAST_028,Broad origin-public 
+Eng-Li_Chih,Broad origin-public 
+EP1,Sweet corn
+F115,Broad origin-public 
+F2,Sweet corn
+F2834T,Tropical
+F42,SS-B73
+F431,Mixed
+F44,Mixed
+F7,Sweet corn
+FC46,Sweet corn
+Fe,Mixed
+FR19,Mixed
+G22_T122,Sweet corn
+G3_T5a,Sweet corn
+GE129,Broad origin-public 
+GE54,Mixed
+H105W,SS-B14
+H110,Mixed
+H113,Mixed
+H114,SS-B37
+H121,Mixed
+H122w,SS-B73
+H124w,Mixed
+H14,Mixed
+H49,NSS-Oh43
+H5,Broad origin-public 
+H52,Broad origin-public 
+H71,Broad origin-public 
+H84,SS-B37
+H91,SS-B14
+H95,NSS-Oh43
+H96,Mixed
+H99,Mixed
+Hi26,Mixed
+Hi28,Tropical
+HP301,Popcorn
+HP72-11,Popcorn
+Huanyao,Tropical
+Huobai,Tropical
+I11.12E,Mixed
+I159,SS-BSSSC0
+I205,Mixed
+I224,SS-BSSSC0
+I29,Popcorn
+IA2132,Sweet corn
+Ia453,Sweet corn
+Ia5125B,Sweet corn
+ICI_193,Mixed
+ICI_441,SS-B73
+ICI_581,NSS-Oh43
+ICI_740,SS-B73
+ICI_893,SS-B73
+ICI_986,IDT
+IDS28,Popcorn
+IDS69,Popcorn
+IDS91,Popcorn
+Il_101T,Sweet corn
+Il14H,Sweet corn
+Il778d,Sweet corn
+Ill.Hy,SS-BSSSC0
+INB_101LFY/LFY_(A632_X_M16_S5),SS-B14
+INBRED_100,Tropical
+INBRED_109,Tropical
+INBRED_141,Broad origin-public 
+INBRED_2-687,Tropical
+INBRED_305,Tropical
+INBRED_309,Tropical
+INBRED_321,Mixed
+J47,Mixed
+J8606,Mixed
+K148,Broad origin-public 
+K150,Broad origin-public 
+K155,Broad origin-public 
+K201,Broad origin-public 
+K4,Broad origin-public 
+K41,Broad origin-public 
+K47,Popcorn
+K55,Mixed
+K64,Mixed
+Ki11,Tropical
+Ki21,Tropical
+Ki3,Tropical
+Ki43,Tropical
+KO679Y,Mixed
+KUNG-70,Mixed
+Ky21,Broad origin-public 
+Ky226,Mixed
+Ky228,Broad origin-public 
+L_127,IDT
+L_135,IDT
+L_139,NSS-Oh43
+L_155,IDT
+L_289,Mixed
+L222,Mixed
+L317,Broad origin-public 
+LE23,Mixed
+LH1,SS-B37
+LH119,SS-B73
+LH123HT,NSS-Oh43
+LH127,NSS-Oh43
+LH128,NSS-Mo17
+LH132,SS-B73
+LH143_(Maintainer),SS-B14
+LH143_CMS,SS-B14
+LH145,SS-B14
+LH146Ht,SS-B14
+LH149,SS-B73
+LH150,Mixed
+LH156,NSS-Oh43
+LH159,SS-B73
+LH160,Mixed
+LH162,Mixed
+LH163,Mixed
+LH164,IDT
+LH165,NSS-Mo17
+LH166,NSS-Oh43
+LH167,NSS-Mo17
+LH169Ht,NSS-Oh43
+LH172,Mixed
+LH175,Mixed
+LH181,NSS-Mo17
+LH183,NSS-Mo17
+LH184,Mixed
+LH185,NSS-Mo17
+LH186,NSS-Mo17
+LH188,NSS-Mo17
+LH189Ht,NSS-Mo17
+LH190,SS-B73
+LH191,Mixed
+LH192,SS-B73
+LH193,SS-B73
+LH194,SS-B73
+LH195,SS-B73
+LH196,SS-B73
+LH197,SS-B73
+LH198,SS-B73
+LH199,SS-B73
+LH200,SS-B73
+LH202,SS-B73
+LH204,SS-B73
+LH205,SS-B73
+LH206,SS-B73
+LH208,SS-B73
+LH209,SS-B73
+LH210,NSS-Mo17
+LH211,NSS-Mo17
+LH212Ht,NSS-Oh43
+LH213,NSS-Oh43
+LH214,NSS-Oh43
+LH215,NSS-Mo17
+LH216,NSS-Mo17
+LH217,NSS-Mo17
+LH218,NSS-Mo17
+LH220Ht,SS-B14
+LH222,SS-B14
+LH223,SS-B14
+LH224,SS-B14
+LH225,SS-B14
+LH231,SS-B73
+LH250,NSS-Oh43
+LH252,NSS-Mo17
+LH260,NSS-Mo17
+LH284,NSS-Oh43
+LH299,Mixed
+LH38,NSS-Oh43
+LH39,NSS-Oh43
+LH51,NSS-Mo17
+LH52,NSS-Mo17
+LH54,NSS-Mo17
+LH57,NSS-Mo17
+LH59,NSS-Mo17
+LH60,NSS-Mo17
+LH61,NSS-Mo17
+LH74,SS-B73
+LH82,Mixed
+LH85,Broad origin-public 
+LH93,Mixed
+LP1_NR_Ht,SS-B14
+Lp215D,NSS-Mo17
+LP5,SS-B73
+M14,Broad origin-public 
+M162W,Mixed
+M37W,Mixed
+MEF156-55-2,Mixed
+ML606,NSS-Oh43
+Mo13,Broad origin-public 
+Mo15W,Broad origin-public 
+Mo16W,Mixed
+Mo17,NSS-Mo17
+Mo18W,Tropical
+Mo1W,Mixed
+Mo23W,Broad origin-public 
+Mo24W,Broad origin-public 
+Mo28W,Mixed
+Mo3,Broad origin-public 
+Mo30W,Mixed
+Mo39,Mixed
+Mo44,Broad origin-public 
+Mo45,Mixed
+Mo46,Mixed
+Mo47,Mixed
+Mo5,Mixed
+Mo7,Popcorn
+MoG,Mixed
+Mp339,Mixed
+MQ305,IDT
+MS106,Broad origin-public 
+MS116,Broad origin-public 
+MS12,Broad origin-public 
+MS132,Mixed
+MS1334,Broad origin-public 
+MS142,Broad origin-public 
+MS153,Broad origin-public 
+MS200,Broad origin-public 
+MS211,Broad origin-public 
+MS221,SS-B37
+MS222,SS-B37
+MS223,Broad origin-public 
+MS224,Broad origin-public 
+MS225,Mixed
+MS226,Mixed
+MS24A,Broad origin-public 
+MS67,Broad origin-public 
+MS71,Broad origin-public 
+MS72,Broad origin-public 
+Mt42,Broad origin-public 
+N192,SS-B73
+N193,Broad origin-public 
+N197,NSS-Mo17
+N199,Broad origin-public 
+N200,Broad origin-public 
+N201,SS-B73
+N209,SS-BSSSC0
+N211,Mixed
+N215,Mixed
+N216,Mixed
+N217,SS-B14
+N218,SS-B14
+N28,SS-BSSSC0
+N28E,SS-BSSSC0
+N28Ht,SS-BSSSC0
+N501,SS-BSSSC0
+N523,SS-BSSSC0
+N527,SS-BSSSC0
+N534,Mixed
+N538,SS-BSSSC0
+N540,SS-BSSSC0
+N542,SS-BSSSC0
+N545,SS-BSSSC0
+N6,Broad origin-public 
+N7A,SS-BSSSC0
+NC13,Mixed
+NC230,Mixed
+NC232,Mixed
+NC236,Mixed
+NC250,SS-B37
+NC258,Popcorn
+NC260,Broad origin-public 
+NC262,Popcorn
+NC264,Tropical
+NC290A,Popcorn
+NC294,SS-B73
+NC298,Tropical
+NC302,Tropical
+NC304,Tropical
+NC306,SS-B73
+NC310,SS-B73
+NC314,SS-B37
+NC318,Mixed
+NC324,SS-B37
+NC326,SS-B73
+NC328,SS-B73
+NC338,Tropical
+NC340,Tropical
+NC342,Mixed
+NC344,Popcorn
+NC348,Tropical
+NC350,Tropical
+NC356,Tropical
+NC358,Tropical
+NC362,Popcorn
+NC364,Popcorn
+NC368,SS-B73
+NC412,Mixed
+NC472,Mixed
+ND1,Sweet corn
+ND101,Mixed
+ND167,Broad origin-public 
+ND230,Broad origin-public 
+ND245,Broad origin-public 
+ND246,Broad origin-public 
+ND247,Broad origin-public 
+ND249,Broad origin-public 
+ND251,Broad origin-public 
+ND259,Broad origin-public 
+ND260,Broad origin-public 
+ND262,Broad origin-public 
+ND265,Broad origin-public 
+ND283,Broad origin-public 
+ND287,Broad origin-public 
+NK740,NSS-Mo17
+NK792,SS-B73
+NK794,SS-B73
+NK807,SS-B37
+NK907,Mixed
+NKBCC03,NSS-Mo17
+NKH8431,Mixed
+NKNP899,IDT
+NKNP901,SS-B73
+NO._380,Sweet corn
+NORTH_7,Mixed
+NP87,Popcorn
+NQ402,IDT
+NQ508,IDT
+NS501,IDT
+NS701,SS-B73
+NY_159_(Neveh_Yaar),Mixed
+NY_166_(Neveh_Yaar),Mixed
+NY6371,Tropical
+Ny821,Mixed
+OC19,Mixed
+Oh1EP,Mixed
+Oh3167B,Mixed
+Oh33,Broad origin-public 
+Oh40B,NSS-Oh43
+Oh43,NSS-Oh43
+Oh43E,NSS-Oh43
+Oh603,Mixed
+Oh7,Mixed
+Oh7B,Mixed
+OQ101,Mixed
+OQ403,IDT
+OQ601,IDT
+OQ603,IDT
+Os420,Mixed
+Os426,Broad origin-public 
+OS602,IDT
+P39,Sweet corn
+Pa392,Broad origin-public 
+Pa405,Broad origin-public 
+Pa468,Broad origin-public 
+Pa762,NSS-Oh43
+Pa778,Mixed
+Pa880,Mixed
+Pa891,NSS-Oh43
+Pa91,NSS-Oh43
+PH207,IDT
+PH5HK,Mixed
+PHAA0,SS-B37
+PHAW6,IDT
+PHB09,SS-B37
+PHB47,SS-B37
+PHBA6,NSS-Oh43
+PHBB3,SS-B37
+PHBW8,SS-B37
+PHDD6,Sweet corn
+PHEG9,Mixed
+PHEM7,Sweet corn
+PHEM9,SS-B37
+PHEW7,SS-B37
+PHFA5,Mixed
+PHG29,IDT
+PHG35,Mixed
+PHG39,SS-B37
+PHG47,NSS-Oh43
+PHG50,IDT
+PHG71,SS-B14
+PHG72,IDT
+PHG80,SS-B37
+PHG83,IDT
+PHG84,Mixed
+PHG86,Mixed
+PHGG7,Sweet corn
+PHGV6,Mixed
+PHGW7,IDT
+PHH93,IDT
+PHHB4,SS-B37
+PHHB9,Mixed
+PHHH9,Mixed
+PHJ31,Mixed
+PHJ33,Mixed
+PHJ40,SS-B37
+PHJ65,Mixed
+PHJ70,Mixed
+PHJ75,IDT
+PHJ89,NSS-Oh43
+PHJ90,IDT
+PHJR5,SS-B37
+PHK05,Mixed
+PHK29,SS-B37
+PHK35,SS-B37
+PHK42,IDT
+PHK46,Mixed
+PHK56,NSS-Oh43
+PHK74,IDT
+PHK76,NSS-Oh43
+PHK93,NSS-Oh43
+PHKE6,IDT
+PHKM5,Mixed
+PHM10,IDT
+PHM49,NSS-Oh43
+PHM57,Mixed
+PHM81,Mixed
+PHMK0,Mixed
+PHN11,IDT
+PHN18,SS-B37
+PHN34,Mixed
+PHN41,SS-B37
+PHN46,NSS-Oh43
+PHN47,IDT
+PHN66,Mixed
+PHN73,NSS-Oh43
+PHN82,IDT
+PHP02,IDT
+PHP38,SS-B37
+PHP55,IDT
+PHP60,Mixed
+PHP76,IDT
+PHP85,SS-B37
+PHPR5,Mixed
+PHR03,Mixed
+PHR25,IDT
+PHR31,IDT
+PHR32,Mixed
+PHR36,Mixed
+PHR55,Mixed
+PHR58,NSS-Oh43
+PHR61,SS-B37
+PHR62,Mixed
+PHR63,IDT
+PHRE1,SS-B37
+PHT10,SS-B73
+PHT11,SS-B37
+PHT22,IDT
+PHT47,SS-B37
+PHT55,SS-B37
+PHT60,NSS-Oh43
+PHT69,SS-B37
+PHT73,Broad origin-public 
+PHT77,NSS-Oh43
+PHTD5,IDT
+PHTE4,SS-B37
+PHTM9,NSS-Oh43
+PHV07,SS-B37
+PHV37,SS-B37
+PHV53,NSS-Oh43
+PHV57,IDT
+PHV63,SS-B37
+PHV78,Mixed
+PHVA9,SS-B37
+PHVJ4,IDT
+PHW03,Mixed
+PHW06,IDT
+PHW17,SS-B73
+PHW20,Mixed
+PHW30,Mixed
+PHW43,NSS-Oh43
+PHW51,SS-B14
+PHW52,SS-B37
+PHW53,IDT
+PHW65,NSS-Oh43
+PHW79,Mixed
+PHW80,NSS-Oh43
+PHW86,IDT
+PHWG5,NSS-Oh43
+PHWRZ,SS-B37
+PHZ51,Mixed
+R101,Broad origin-public 
+R113,Broad origin-public 
+R134,Broad origin-public 
+R168,Broad origin-public 
+R177,Broad origin-public 
+R181B,Broad origin-public 
+R197,Mixed
+R225,Mixed
+R226,Mixed
+R227,SS-BSSSC0
+R229,SS-B73
+R30,Broad origin-public 
+R4,Broad origin-public 
+R53,Broad origin-public 
+R71,Broad origin-public 
+R78,Broad origin-public 
+RS_710,Broad origin-public 
+S_56,Sweet corn
+S8324,SS-B73
+S8326,NSS-Mo17
+SD101,SS-B37
+SD102,IDT
+SD107,SS-B14
+SD15,Mixed
+SD40,Mixed
+SD42,Broad origin-public 
+SD44,Mixed
+Seagull_Seventeen,NSS-Mo17
+Sg_1533,Popcorn
+Sg_18,Popcorn
+SG_30A,Popcorn
+T141,Broad origin-public 
+T146,Sweet corn
+T232,Mixed
+T234,Broad origin-public 
+T242,Sweet corn
+T8,Popcorn
+T9,Sweet corn
+Tr,SS-BSSSC0
+Tr9-1-1-6,SS-BSSSC0
+Tx303,Mixed
+TZU-CHIAO-HSI-WU_105,Mixed
+U_123,Sweet corn
+U267Y,Mixed
+Va102,Popcorn
+Va14,Mixed
+Va17,Mixed
+Va22,Mixed
+Va26,NSS-Oh43
+Va35,Popcorn
+Va38,Mixed
+Va52,Mixed
+Va59,Popcorn
+Va85,Mixed
+Va99,Mixed
+VaW6,Mixed
+W10001_0003,Broad origin-public 
+W10001_0007,Broad origin-public 
+W10001_0009,Broad origin-public 
+W10001_0010,Broad origin-public 
+W10001_0012,Broad origin-public 
+W10001_0016,Broad origin-public 
+W10001_0018,Broad origin-public 
+W10001_0030,Broad origin-public 
+W10001_0031,Broad origin-public 
+W10001_0040,Broad origin-public 
+W10002_0001,Broad origin-public 
+W10002_0004,Broad origin-public 
+W117HT,Broad origin-public 
+W153R,Broad origin-public 
+W182B,Broad origin-public 
+W182BN,Broad origin-public 
+W182E,Broad origin-public 
+W22,Broad origin-public 
+W23,Broad origin-public 
+W24,Broad origin-public 
+W32,Broad origin-public 
+W37A,Broad origin-public 
+W552,Broad origin-public 
+W59E,Broad origin-public 
+W601S,NSS-Mo17
+W602S,Mixed
+W603S,Mixed
+W604S,NSS-Mo17
+W605S,NSS-Mo17
+W64A,Mixed
+W703,Mixed
+W7151,Sweet corn
+W802G,Mixed
+W803G,Tropical
+W809G,SS-B73
+W810G,Mixed
+W811G,SS-B73
+W812G,SS-B73
+W813G,SS-B14
+W814G,Mixed
+W815G,Mixed
+W816G,Mixed
+W817G,NSS-Oh43
+W818G,Mixed
+W819G,SS-B73
+W820G,SS-B73
+W821G,NSS-Oh43
+W8304,SS-B73
+W85,Sweet corn
+W8555,SS-B73
+W9,Broad origin-public 
+WD,Broad origin-public 
+WD456,Mixed
+Wf9,NSS-Oh43
+WIL500,Tropical
+WIL900,NSS-Mo17
+WIL901,NSS-Mo17
+WIL903,NSS-Mo17
+WR3,Broad origin-public 
+WU-TAN-TZAO,Mixed
+WXB6,Mixed
+YANG,Tropical
+YE_4,Tropical
+YE-CHI-HUNG,Tropical
+YELLOW_3-4,Tropical
+YING-55,Broad origin-public 
+Yong_28,Mixed
+Yu796_NS,Mixed
+ZS01250,Mixed
+ZS1791,SS-B73
+ZS635,Mixed

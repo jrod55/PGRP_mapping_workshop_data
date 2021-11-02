@@ -1,0 +1,15 @@
+bookdown/
+eQTL_results/
+figures/
+gwas_results/
+scripts/
+twas_results/
+data/expression_data/widiv942_TPM.gct
+data/expression_data/widiv942_TPM.gct.tdf
+packages.bib
+data/gene_annotation_data/Zea_mays.B73_RefGen_v4.48.chr.gff3
+data/expression_data/widiv942_TPM.tsv
+data/genotypic_and_phenotypic_data/filtered_widiv_942g_899784SNPs_imputed_filteredGenos_noRTA_AGPv4.hmp.txt
+data/genotypic_and_phenotypic_data/snps_in_genes1Mb.txt
+data/genotypic_and_phenotypic_data/widiv_942g_899784SNPs_imputed_filteredGenos_noRTA_AGPv4.hmp.txt
+data/pushme.sh
